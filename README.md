@@ -1,4 +1,4 @@
-<h1 align="center">###Hi 👋, I'm Marc-André Camirand###</h1>
+<h1 align="center">Hi 👋, I'm Marc-André Camirand</h1>
 <h3 align="center">A Full Stack developper student from Canada</h3>
 
 - 👨‍💻 I’m currently working on **Personal project in finance industry**

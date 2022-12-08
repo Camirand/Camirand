@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Marc-André Camirand</h1>
-<h3 align="center">A FullStack developper student from Canada</h3>
+<h3 align="center">A FullStack developer from Canada</h3>
 
 - 👨‍💻 I’m currently working on **Personal project in finance industry**
 

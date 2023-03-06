@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working on **Personal project in finance industry**
 
-- 🌱 I’m currently learning **Ruby and Ruby on rails**
+- 🌱 I’m currently learning **Javascript**, **React** and **Gatsby**
 
 - 💬 Ask me about **SEO, business development, startup, finance**
 

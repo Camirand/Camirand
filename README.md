@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Marc-André Camirand</h1>
 <h3 align="center">A FullStack developer from Canada</h3>
 
-- 👨‍💻 I’m currently working on **Personal project in finance industry**
+- 👨‍💻 I’m currently working on **Personal project in finance industry** and **OPEN to opportunities**
 
 - 🌱 I’m currently learning **JavaScript** => **React** and **GatsbyJS**
 
 - 💬 Ask me about **SEO, business development, startup, finance**
 
 - ⚡ I love **Sailing, traveling, rum and whiskey**
+
+-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flewagonjapan&psig=AOvVaw295L9NbO_RL-dZgotlwpHY&ust=1678226208615000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjI7vqlyP0CFQAAAAAdAAAAABAD](https://avatars.githubusercontent.com/u/64185776?s=200&v=4)"/>Fellow Le Wagon Montreal bootcamp student
 
 
 

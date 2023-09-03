@@ -6,11 +6,11 @@
 
 - 👨‍💻 I’m currently working on **Personal project in finance industry** and **OPEN to opportunities**
 
-- 🌱 I’m currently learning **JavaScript** => **React** and **GatsbyJS**
+- 🌱 Growing my React and NextJS skills
 
 - 💬 Ask me about **SEO, business development, startup, finance**
 
-- ⚡ I love **Sailing, traveling, rum and whiskey**
+- ⚡ I love **Sailing, mountain biking, traveling, rum and whiskey**
 
 <br>
 
